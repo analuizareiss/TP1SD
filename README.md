@@ -99,8 +99,7 @@ Cria múltiplas threads produtoras e consumidoras que compartilham um buffer cir
 | `Np` | Número de threads produtoras | — |
 | `Nc` | Número de threads consumidoras | — |
 | `M` | Total de números a consumir | 100000 |
-| `output_dir` | Diretório para salvar o CSV de ocupação | `.` |
-| `--no-log` | Desabilita o log de ocupação (mais rápido) | — |
+
 
 **Exemplos:**
 ```bash
